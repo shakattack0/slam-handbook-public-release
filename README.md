@@ -12,20 +12,20 @@ Together with all the experts in SLAM, we are preparing the SLAM Handbook, cover
 * Chapter6: Dense Map Representation
 
 ## Part 2 Release (TBD)
-Chapter7: Visual SLAM
-Chapter8: LiDAR SLAM
-Chapter9: Radar SLAM
-Chapter10: Event-based SLAM
-Chapter11: Inertial Odometry for SLAM
-Chapter12: Leg Odometry for SLAM
+* Chapter7: Visual SLAM
+* Chapter8: LiDAR SLAM
+* Chapter9: Radar SLAM
+* Chapter10: Event-based SLAM
+* Chapter11: Inertial Odometry for SLAM
+* Chapter12: Leg Odometry for SLAM
 
 ## Part 3 Release (TBD)
-Chapter13: Spatial AI
-Chapter14: Boosting SLAM with Deep Learning
-Chapter15: NeRF and GS
-Chapter16: Dynamic and Deformable SLAM
-Chapter17: Metric-Semantic SLAM
-Chapter18: Foundation Models for SLAM
+* Chapter13: Spatial AI
+* Chapter14: Boosting SLAM with Deep Learning
+* Chapter15: NeRF and GS
+* Chapter16: Dynamic and Deformable SLAM
+* Chapter17: Metric-Semantic SLAM
+* Chapter18: Foundation Models for SLAM
 
 ## Contributors of the Book
 
