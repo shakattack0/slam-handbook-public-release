@@ -30,66 +30,65 @@ Together with all the experts in SLAM, we are preparing the SLAM Handbook, cover
 
 ## Contributors of the Book (in an alphabetical order by their last name)
 
+We deeply appreciate your contribution to this book!
+
 Henrik Andreasson  
 Arash Asgharivaskasi  
-Nikolay Atanasov
-Timothy Barfoot
-Jens Behley
-Wolfram Burgard
-Cesar Cadena
-Teresa Vidal Calleja
-Marco Camurri
-Luca Carlone
-Yun Chang
-Margarita Chli
-Henrik Christensen
-Giovanni Cioffi
-Javier Civera
-Daniel Cremers
-Andy Davison
-Frank Dellaert
-Jia Deng
-Kevin Doherty
-Jacob Engle
-Maurice Fallon
-Guillermo Gallego
-Cedric Le Gentil
-Christoffer Heckman
-Connor Holmes
-Paul Huang
-Shoudong Huang
-Nathan Hughes
-Krishna Murthy Jatavallabhula
-Michael Kaess
-Kasra Khosoussi
-Giseop Kim
-Ayoung Kim
-John Leonard
-Stefan Leutenegger
-Lahav Lipson
-Martin Magnusson
-Joshua Mangelson
-Hidenobu Matsuki
-Matias Mattamala
-José M Martínez Montiel 
-Mustafa Mukadam
-Paul Newman
-Helen Oleynikova
-Lionel Ott
-Marc Pollefeys
-Victor Reijgwart
-David Rosen
-Davide Scaramuzza
-Lukas Schmid
-Jingnan Shi
-Cyrill Stachniss
-Niko Sunderhauf
-Zach Teed
-Chen Wang
-Heng Yang
-Fu Zhang
-Ji Zhang
-Shibo Zhao
-
-
-We deeply appreciate your contribution to this book!
+Nikolay Atanasov  
+Timothy Barfoot  
+Jens Behley  
+Wolfram Burgard  
+Cesar Cadena  
+Teresa Vidal Calleja  
+Marco Camurri  
+Luca Carlone  
+Yun Chang  
+Margarita Chli  
+Henrik Christensen  
+Giovanni Cioffi  
+Javier Civera  
+Daniel Cremers  
+Andy Davison  
+Frank Dellaert  
+Jia Deng  
+Kevin Doherty  
+Jacob Engle  
+Maurice Fallon  
+Guillermo Gallego  
+Cedric Le Gentil  
+Christoffer Heckman  
+Connor Holmes  
+Paul Huang  
+Shoudong Huang  
+Nathan Hughes  
+Krishna Murthy Jatavallabhula  
+Michael Kaess  
+Kasra Khosoussi  
+Giseop Kim  
+Ayoung Kim  
+John Leonard  
+Stefan Leutenegger  
+Lahav Lipson  
+Martin Magnusson  
+Joshua Mangelson  
+Hidenobu Matsuki  
+Matias Mattamala  
+José M Martínez Montiel   
+Mustafa Mukadam  
+Paul Newman  
+Helen Oleynikova  
+Lionel Ott  
+Marc Pollefeys  
+Victor Reijgwart  
+David Rosen  
+Davide Scaramuzza  
+Lukas Schmid  
+Jingnan Shi  
+Cyrill Stachniss  
+Niko Sunderhauf  
+Zach Teed  
+Chen Wang  
+Heng Yang  
+Fu Zhang  
+Ji Zhang  
+Shibo Zhao  
