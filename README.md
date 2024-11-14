@@ -5,7 +5,7 @@ Together with all the experts in SLAM, we are preparing the SLAM Handbook, cover
 ## Part 1 Release (Nov 2024)
 
 * Chapter1: Prelude
-* Chpater2: Factor Graphs for SLAM
+* Chapter2: Factor Graphs for SLAM
 * Chapter3: Advanced State Variable Representations
 * Chapter4: Robustness to Incorrect Data Association and Outliers
 * Chapter5: Differentiable Optimization
