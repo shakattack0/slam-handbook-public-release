@@ -39,7 +39,6 @@ Timothy Barfoot
 Jens Behley  
 Wolfram Burgard  
 Cesar Cadena  
-Teresa Vidal Calleja  
 Marco Camurri  
 Luca Carlone  
 Yun Chang  
@@ -87,6 +86,7 @@ Jingnan Shi
 Cyrill Stachniss  
 Niko Sunderhauf  
 Zach Teed  
+Teresa Vidal Calleja  
 Chen Wang  
 Heng Yang  
 Fu Zhang  
