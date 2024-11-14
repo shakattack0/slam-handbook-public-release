@@ -86,7 +86,7 @@ Jingnan Shi
 Cyrill Stachniss  
 Niko Sunderhauf  
 Zach Teed  
-Teresa Vidal Calleja  
+Teresa Vidal-Calleja  
 Chen Wang  
 Heng Yang  
 Fu Zhang  
