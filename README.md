@@ -1,6 +1,6 @@
 # SLAM Handbook Public Release
 
-Together with all the experts in SLAM, we are preparing the SLAM Handbook, covering the theoretical background, application, and future spatial AI. We expect this handbook will be a good guideline for those working in this field. Starting from the part 1 release in November 2024, we will incrementally release parts to accommodate feedback from the public. Please use this repository's issue and discussion board to report any issues or ideas regarding this book.
+Together with a large number of experts in SLAM we are preparing the **SLAM Handbook**, covering the theoretical background, application, and future spatial AI. We expect this handbook will be a good guideline for those working in this field. Starting from the part 1 release in November 2024, we will incrementally release parts to accommodate feedback from the public. Please use this repository's issue and discussion board to report any issues or ideas regarding this book.
 
 ## Part 1 Release (Nov 2024)
 
