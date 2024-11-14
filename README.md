@@ -51,7 +51,7 @@ Andy Davison
 Frank Dellaert  
 Jia Deng  
 Kevin Doherty  
-Jacob Engle  
+Jacob Engel  
 Maurice Fallon  
 Guillermo Gallego  
 Cedric Le Gentil  
