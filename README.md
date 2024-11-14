@@ -30,8 +30,8 @@ Together with all the experts in SLAM, we are preparing the SLAM Handbook, cover
 
 ## Contributors of the Book (in an alphabetical order by their last name)
 
-Henrik Andreasson
-Arash Asgharivaskasi
+Henrik Andreasson  
+Arash Asgharivaskasi  
 Nikolay Atanasov
 Timothy Barfoot
 Jens Behley
