@@ -10,23 +10,86 @@ Together with all the experts in SLAM, we are preparing the SLAM Handbook, cover
 * Chapter4: Robustness to Incorrect Data Association and Outliers
 * Chapter5: Differentiable Optimization
 * Chapter6: Dense Map Representation
+* Chapter7: Theoretical Properties (TBD)
 
 ## Part 2 Release (TBD)
-* Chapter7: Visual SLAM
-* Chapter8: LiDAR SLAM
-* Chapter9: Radar SLAM
-* Chapter10: Event-based SLAM
-* Chapter11: Inertial Odometry for SLAM
-* Chapter12: Leg Odometry for SLAM
+* Chapter8: Visual SLAM
+* Chapter9: LiDAR SLAM
+* Chapter10: Radar SLAM
+* Chapter11: Event-based SLAM
+* Chapter12: Inertial Odometry for SLAM
+* Chapter13: Leg Odometry for SLAM
 
 ## Part 3 Release (TBD)
-* Chapter13: Spatial AI
-* Chapter14: Boosting SLAM with Deep Learning
-* Chapter15: NeRF and GS
-* Chapter16: Dynamic and Deformable SLAM
-* Chapter17: Metric-Semantic SLAM
-* Chapter18: Foundation Models for SLAM
+* Chapter14: Spatial AI
+* Chapter15: Boosting SLAM with Deep Learning
+* Chapter16: NeRF and GS
+* Chapter17: Dynamic and Deformable SLAM
+* Chapter18: Metric-Semantic SLAM
+* Chapter19: Foundation Models for SLAM
 
-## Contributors of the Book
+## Contributors of the Book (in an alphabetical order by their last name)
+
+Henrik Andreasson
+Arash Asgharivaskasi
+Nikolay Atanasov
+Timothy Barfoot
+Jens Behley
+Wolfram Burgard
+Cesar Cadena
+Teresa Vidal Calleja
+Marco Camurri
+Luca Carlone
+Yun Chang
+Margarita Chli
+Henrik Christensen
+Giovanni Cioffi
+Javier Civera
+Daniel Cremers
+Andy Davison
+Frank Dellaert
+Jia Deng
+Kevin Doherty
+Jacob Engle
+Maurice Fallon
+Guillermo Gallego
+Cedric Le Gentil
+Christoffer Heckman
+Connor Holmes
+Paul Huang
+Shoudong Huang
+Nathan Hughes
+Krishna Murthy Jatavallabhula
+Michael Kaess
+Kasra Khosoussi
+Giseop Kim
+Ayoung Kim
+John Leonard
+Stefan Leutenegger
+Lahav Lipson
+Martin Magnusson
+Joshua Mangelson
+Hidenobu Matsuki
+Matias Mattamala
+José M Martínez Montiel 
+Mustafa Mukadam
+Paul Newman
+Helen Oleynikova
+Lionel Ott
+Marc Pollefeys
+Victor Reijgwart
+David Rosen
+Davide Scaramuzza
+Lukas Schmid
+Jingnan Shi
+Cyrill Stachniss
+Niko Sunderhauf
+Zach Teed
+Chen Wang
+Heng Yang
+Fu Zhang
+Ji Zhang
+Shibo Zhao
+
 
 We deeply appreciate your contribution to this book!
