@@ -1,6 +1,6 @@
 # SLAM Handbook Public Release
 
-Together with a large number of experts in Simultaneous Localization and Mapping (SLAM) we are preparing the **SLAM Handbook** to be published by [Cambridge University Press](https://www.cambridge.org/). This book will cover the theoretical background of SLAM, its applications, and its future as spatial AI. We expect this handbook will be a good guideline for those working in this field. Starting from the release of Part 1 in November 2024, we will incrementally release the other parts to accommodate feedback from the public. Please use this repository's issue and discussion board to report any issues or ideas regarding this book.
+Together with a large number of experts in Simultaneous Localization and Mapping (SLAM) we are preparing the **SLAM Handbook** to be published by Cambridge University Press. This book will cover the theoretical background of SLAM, its applications, and its future as spatial AI. We expect this handbook will be a good guideline for those working in this field. Starting from the release of Part 1 in November 2024, we will incrementally release the other parts to accommodate feedback from the public. Please use this repository's issue and discussion board to report any issues or ideas regarding this book.
 
 ## Part 1 Release (Nov 2024)
 
